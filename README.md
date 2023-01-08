@@ -13,7 +13,9 @@ backend framework through API.
 Features:
   - Appointment System
   - Medical Certificate Generator
-  
+
+Note: it will not work without the backend framework. Please refer to this repository (https://github.com/braincellsbyebye/capstonebackend) 
+
 Screenshots:
 <table>
   <tr>
