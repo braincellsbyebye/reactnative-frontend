@@ -6,6 +6,9 @@
   </tr>
 </table>
 
+## About
+Hippo Campus - A clinic management system, the project name Hippo Campus was derived from the Hippo Campus organ which is part of the limbic system and plays important roles in the consolidation of information from short-term memory to long-term memory such as the same feature of the HippoCampus projhect which stores medical data.
+
 HippoCampus is a web and mobile application that allows management of a clinic in a university setting.
 This repository contains the front-end code of the HippoCampus project, the framework that was used in this project is React Native and is connected to the Laravel 
 backend framework through API.
@@ -15,6 +18,22 @@ Features:
   - Medical Certificate Generator
 
 Note: it will not work without the backend framework. Please refer to this repository (https://github.com/braincellsbyebye/capstonebackend) 
+
+Download
+```sh
+git clone https://github.com/braincellsbyebye/reactnative-frontend
+```
+
+After Download, Install
+```sh
+npm install
+```
+
+After Install, Run (Two Seperate CMD)
+```sh
+npx react-native start
+npx react-native run-android
+```
 
 Screenshots:
 <table>
