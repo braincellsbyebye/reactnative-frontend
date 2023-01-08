@@ -11,7 +11,6 @@ This repository contains the front-end code of the HippoCampus project, the fram
 backend framework through API.
 
 Features:
-  - CRUD of Medical Data
   - Appointment System
   - Medical Certificate Generator
   
